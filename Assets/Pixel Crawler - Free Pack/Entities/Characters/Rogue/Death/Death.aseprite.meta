@@ -2,7 +2,12 @@ fileFormatVersion: 2
 guid: aa8d33879fab4394fb8e3cab50e798d4
 ScriptedImporter:
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Death_Clip
+    second: {fileID: 7400000, guid: 1cc11d66f14eaed4f99d875632fbaccc, type: 2}
   serializedVersion: 2
   userData: 
   assetBundleName: 
@@ -95,7 +100,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638827277672514080
+  platformSettingsDirtyTick: 638828966318105106
   textureAssetName: 
   singleSpriteImportData:
   - name: 
